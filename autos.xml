@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Autos>
+  <Auto>
+    <Marke>VW</Marke>
+    <Ausstattungen>
+      <Ausstattung>Schiebedach</Ausstattung>
+      <Ausstattung>Navi</Ausstattung>
+    </Ausstattungen>
+  </Auto>
+  <Auto>
+    <Marke>Porsche</Marke>
+    <Ausstattungen>
+      <Ausstattung>Duesenantrieb</Ausstattung>
+      <Ausstattung>Cabrio</Ausstattung>
+      <Ausstattung>Super schicke Raeder</Ausstattung>
+    </Ausstattungen>
+  </Auto>
+</Autos>

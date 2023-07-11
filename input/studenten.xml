@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Studenten>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Graf</Name>
+    <Matrikelnummer>870283</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Lied</Name>
+    <Matrikelnummer>872227</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Thomas Oper</Name>
+    <Matrikelnummer>870369</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Xena Graf</Name>
+    <Matrikelnummer>871090</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ingrid Sauer</Name>
+    <Matrikelnummer>871911</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Yannik Eiche</Name>
+    <Matrikelnummer>870611</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Welt</Name>
+    <Matrikelnummer>870697</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Katrin Castor</Name>
+    <Matrikelnummer>870852</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Olivia Ulrich</Name>
+    <Matrikelnummer>870681</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Rafael Tanne</Name>
+    <Matrikelnummer>871695</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Preis</Name>
+    <Matrikelnummer>870688</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Lied</Name>
+    <Matrikelnummer>871616</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Daniel Sauer</Name>
+    <Matrikelnummer>872103</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Vesper</Name>
+    <Matrikelnummer>871634</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Mauer</Name>
+    <Matrikelnummer>871383</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Greta Preis</Name>
+    <Matrikelnummer>871020</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ute Tanne</Name>
+    <Matrikelnummer>870510</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Walter Yoga</Name>
+    <Matrikelnummer>871746</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Preis</Name>
+    <Matrikelnummer>870132</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Xena Nuss</Name>
+    <Matrikelnummer>871233</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Xylophon</Name>
+    <Matrikelnummer>870420</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Anna Castor</Name>
+    <Matrikelnummer>871838</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Rafael Yoga</Name>
+    <Matrikelnummer>871377</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Vesper</Name>
+    <Matrikelnummer>870803</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Eli Yoga</Name>
+    <Matrikelnummer>871202</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Yannik Dorf</Name>
+    <Matrikelnummer>872081</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Carla Xylophon</Name>
+    <Matrikelnummer>871132</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Melanie Sauer</Name>
+    <Matrikelnummer>870088</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Carla Eiche</Name>
+    <Matrikelnummer>870139</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Heinz</Name>
+    <Matrikelnummer>871163</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Keller</Name>
+    <Matrikelnummer>871681</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Eiche</Name>
+    <Matrikelnummer>870603</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Vera Sauer</Name>
+    <Matrikelnummer>870059</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Olivia Insel</Name>
+    <Matrikelnummer>870904</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Jung</Name>
+    <Matrikelnummer>871964</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Oper</Name>
+    <Matrikelnummer>870885</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Florian Ulrich</Name>
+    <Matrikelnummer>870904</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ute Keller</Name>
+    <Matrikelnummer>871341</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Yoga</Name>
+    <Matrikelnummer>871557</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Vera Vesper</Name>
+    <Matrikelnummer>870556</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Zoo</Name>
+    <Matrikelnummer>870921</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Raum</Name>
+    <Matrikelnummer>870884</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Eli Alt</Name>
+    <Matrikelnummer>872134</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Leon Eiche</Name>
+    <Matrikelnummer>871371</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Eiche</Name>
+    <Matrikelnummer>870028</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ingrid Oper</Name>
+    <Matrikelnummer>871933</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Leon Raum</Name>
+    <Matrikelnummer>870678</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Sauer</Name>
+    <Matrikelnummer>872282</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Mauer</Name>
+    <Matrikelnummer>871088</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Thomas Mauer</Name>
+    <Matrikelnummer>871733</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Yannik Vesper</Name>
+    <Matrikelnummer>870451</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Tanne</Name>
+    <Matrikelnummer>870426</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Graf</Name>
+    <Matrikelnummer>870972</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Daniel Welt</Name>
+    <Matrikelnummer>870756</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Keller</Name>
+    <Matrikelnummer>871887</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ingrid Xylophon</Name>
+    <Matrikelnummer>870658</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Florian Mauer</Name>
+    <Matrikelnummer>872178</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Graf</Name>
+    <Matrikelnummer>871471</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Nuss</Name>
+    <Matrikelnummer>871227</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Xylophon</Name>
+    <Matrikelnummer>870177</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Sauer</Name>
+    <Matrikelnummer>870831</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Mauer</Name>
+    <Matrikelnummer>871605</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Nuss</Name>
+    <Matrikelnummer>870215</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Eiche</Name>
+    <Matrikelnummer>870502</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Florian Sauer</Name>
+    <Matrikelnummer>871519</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Yoga</Name>
+    <Matrikelnummer>871797</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Walter Quadrat</Name>
+    <Matrikelnummer>871826</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Vera Ulrich</Name>
+    <Matrikelnummer>871791</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Welt</Name>
+    <Matrikelnummer>871222</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Oper</Name>
+    <Matrikelnummer>871307</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Ingrid Quadrat</Name>
+    <Matrikelnummer>870376</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Yoga</Name>
+    <Matrikelnummer>870054</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Anna Eiche</Name>
+    <Matrikelnummer>871841</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Xylophon</Name>
+    <Matrikelnummer>870385</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Eli Yoga</Name>
+    <Matrikelnummer>871722</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Yoga</Name>
+    <Matrikelnummer>870603</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Anna Lied</Name>
+    <Matrikelnummer>871521</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Yannik Lied</Name>
+    <Matrikelnummer>871360</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Berg</Name>
+    <Matrikelnummer>870326</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Rafael Keller</Name>
+    <Matrikelnummer>871057</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Mauer</Name>
+    <Matrikelnummer>870252</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Xylophon</Name>
+    <Matrikelnummer>871425</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Vera Mauer</Name>
+    <Matrikelnummer>872214</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Leon Oper</Name>
+    <Matrikelnummer>871683</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Horst Ulrich</Name>
+    <Matrikelnummer>870570</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Yannik Fein</Name>
+    <Matrikelnummer>871220</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Peter Preis</Name>
+    <Matrikelnummer>870869</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>5,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Nick Xylophon</Name>
+    <Matrikelnummer>872253</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Yoga</Name>
+    <Matrikelnummer>872013</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Quadrat</Name>
+    <Matrikelnummer>870546</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Sara Castor</Name>
+    <Matrikelnummer>870655</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Leon Alt</Name>
+    <Matrikelnummer>872050</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Queeny Yoga</Name>
+    <Matrikelnummer>870941</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Melanie Welt</Name>
+    <Matrikelnummer>870278</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Nuss</Name>
+    <Matrikelnummer>870492</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Zoe Heinz</Name>
+    <Matrikelnummer>871178</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>1,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Jan Graf</Name>
+    <Matrikelnummer>870708</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>5,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>3,0</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Bob Mauer</Name>
+    <Matrikelnummer>871656</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>4,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>1,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Xena Ulrich</Name>
+    <Matrikelnummer>871719</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>3,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>3,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>1,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,3</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+  <Student Hochschule="Beuth">
+    <Name>Thomas Xylophon</Name>
+    <Matrikelnummer>871278</Matrikelnummer>
+    <Faecher>
+      <Fach>
+        <Name>Grundlagen der Theoretischen Informatik</Name>
+        <Note>2,0</Note>
+      </Fach>
+      <Fach>
+        <Name>Mathematik I</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Mediendesign Grundlagen</Name>
+        <Note>2,3</Note>
+      </Fach>
+      <Fach>
+        <Name>Programmierung I</Name>
+        <Note>2,7</Note>
+      </Fach>
+      <Fach>
+        <Name>Technische Grundlagen der Informatik</Name>
+        <Note>2,7</Note>
+      </Fach>
+    </Faecher>
+  </Student>
+</Studenten>

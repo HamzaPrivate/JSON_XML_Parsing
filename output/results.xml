@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Faecher>
+  <Fach Name="Programmierung I">
+    <Statistik>
+      <Note>1,0</Note>
+      <Anzahl>2</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>1,3</Note>
+      <Anzahl>5</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>1,7</Note>
+      <Anzahl>9</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>2,0</Note>
+      <Anzahl>9</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>2,3</Note>
+      <Anzahl>21</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>2,7</Note>
+      <Anzahl>17</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>3,0</Note>
+      <Anzahl>13</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>3,3</Note>
+      <Anzahl>5</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>3,7</Note>
+      <Anzahl>4</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>4,0</Note>
+      <Anzahl>13</Anzahl>
+    </Statistik>
+    <Statistik>
+      <Note>5,0</Note>
+      <Anzahl>2</Anzahl>
+    </Statistik>
+  </Fach>
+</Faecher>

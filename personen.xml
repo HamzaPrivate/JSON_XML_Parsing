@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Personen>
+  <Person>
+    <Name>Anna</Name>
+    <Mitteilungen>
+      <Mitteilung>Hello, Anna!</Mitteilung>
+      <Mitteilung>Wann treffen wir uns?</Mitteilung>
+      <Mitteilung>Bis bald.</Mitteilung>
+    </Mitteilungen>
+  </Person>
+  <Person>
+    <Name>Bob</Name>
+    <Mitteilungen>
+      <Mitteilung>Na?!</Mitteilung>
+      <Mitteilung>Wo bist du denn?!</Mitteilung>
+    </Mitteilungen>
+  </Person>
+</Personen>

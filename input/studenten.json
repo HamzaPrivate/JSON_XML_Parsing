@@ -1,0 +1,1202 @@
+{"Studenten": [
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870283,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Queeny Graf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872227,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Horst Lied"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870369,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "3,3",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Thomas Oper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871090,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "3,3",
+      "Programmierung I": "1,0",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Xena Graf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871911,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Ingrid Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870611,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "1,3",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Yannik Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870697,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Peter Welt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870852,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Katrin Castor"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870681,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "1,0"
+    },
+    "Name": "Olivia Ulrich"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871695,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Rafael Tanne"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870688,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "3,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Nick Preis"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871616,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Queeny Lied"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872103,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Daniel Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871634,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Zoe Vesper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871383,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "5,0"
+    },
+    "Name": "Nick Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871020,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Greta Preis"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870510,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Ute Tanne"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871746,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Walter Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870132,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Queeny Preis"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871233,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Xena Nuss"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870420,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "3,3",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Jan Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871838,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,3",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Anna Castor"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871377,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "1,0",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Rafael Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870803,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Jan Vesper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871202,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Eli Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872081,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Yannik Dorf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871132,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Carla Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870088,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "3,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Melanie Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870139,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "3,7"
+    },
+    "Name": "Carla Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871163,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Queeny Heinz"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871681,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Sara Keller"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870603,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Nick Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870059,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "1,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Vera Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870904,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "3,7"
+    },
+    "Name": "Olivia Insel"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871964,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,7",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Horst Jung"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870885,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "5,0",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "1,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Horst Oper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870904,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Florian Ulrich"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871341,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,3",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Ute Keller"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871557,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Nick Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870556,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "3,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Vera Vesper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870921,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Zoe Zoo"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870884,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Jan Raum"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872134,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "4,0",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Eli Alt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871371,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Leon Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870028,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Zoe Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871933,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Ingrid Oper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870678,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,3",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "1,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Leon Raum"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872282,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Zoe Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871088,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "3,7",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Horst Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871733,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "1,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Thomas Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870451,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "5,0"
+    },
+    "Name": "Yannik Vesper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870426,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Sara Tanne"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870972,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Horst Graf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870756,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Daniel Welt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871887,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Sara Keller"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870658,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "5,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Ingrid Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872178,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "5,0",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Florian Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871471,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "1,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Jan Graf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871227,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "3,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Sara Nuss"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870177,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,0",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Peter Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870831,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "5,0",
+      "Mediendesign Grundlagen": "4,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Peter Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871605,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,3",
+      "Technische Grundlagen der Informatik": "5,0"
+    },
+    "Name": "Nick Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870215,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Peter Nuss"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870502,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "1,3",
+      "Programmierung I": "2,0",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Zoe Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871519,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Florian Sauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871797,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "1,0"
+    },
+    "Name": "Sara Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871826,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "3,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Walter Quadrat"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871791,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Vera Ulrich"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871222,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Queeny Welt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871307,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Peter Oper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870376,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Ingrid Quadrat"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870054,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "1,0",
+      "Programmierung I": "1,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Peter Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871841,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Anna Eiche"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870385,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "5,0",
+      "Mediendesign Grundlagen": "3,3",
+      "Programmierung I": "5,0",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Jan Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871722,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Eli Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870603,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,3",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Queeny Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871521,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Anna Lied"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871360,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,3",
+      "Mathematik I": "1,3",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Yannik Lied"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870326,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "1,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Peter Berg"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871057,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "3,3",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Rafael Keller"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870252,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "4,0"
+    },
+    "Name": "Zoe Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871425,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Sara Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872214,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "5,0",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Vera Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871683,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,7",
+      "Mathematik I": "3,3",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Leon Oper"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870570,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "4,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Horst Ulrich"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871220,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Yannik Fein"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870869,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "5,0",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "3,7",
+      "Technische Grundlagen der Informatik": "5,0"
+    },
+    "Name": "Peter Preis"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872253,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Nick Xylophon"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872013,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,0",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "3,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Zoe Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870546,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Queeny Quadrat"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870655,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,7",
+      "Mediendesign Grundlagen": "4,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Sara Castor"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 872050,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,7",
+      "Mathematik I": "4,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Leon Alt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870941,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,7",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Queeny Yoga"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870278,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "2,3",
+      "Technische Grundlagen der Informatik": "3,3"
+    },
+    "Name": "Melanie Welt"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870492,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,3",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,0",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "2,0"
+    },
+    "Name": "Zoe Nuss"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871178,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "1,0",
+      "Mathematik I": "1,7",
+      "Mediendesign Grundlagen": "1,7",
+      "Programmierung I": "3,0",
+      "Technische Grundlagen der Informatik": "1,3"
+    },
+    "Name": "Zoe Heinz"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 870708,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,3",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "5,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "3,0"
+    },
+    "Name": "Jan Graf"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871656,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "4,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "4,0",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "1,7"
+    },
+    "Name": "Bob Mauer"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871719,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "3,7",
+      "Mathematik I": "3,0",
+      "Mediendesign Grundlagen": "2,7",
+      "Programmierung I": "1,7",
+      "Technische Grundlagen der Informatik": "2,3"
+    },
+    "Name": "Xena Ulrich"
+  },
+  {
+    "Hochschule": "Beuth",
+    "Matrikelnummer": 871278,
+    "Faecher": {
+      "Grundlagen der Theoretischen Informatik": "2,0",
+      "Mathematik I": "2,3",
+      "Mediendesign Grundlagen": "2,3",
+      "Programmierung I": "2,7",
+      "Technische Grundlagen der Informatik": "2,7"
+    },
+    "Name": "Thomas Xylophon"
+  }
+]}
